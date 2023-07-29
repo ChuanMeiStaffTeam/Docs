@@ -1,61 +1,60 @@
-Bloomberg Beta Operating Manual
+彭博测试版操作手册
 ================
 
 
 
-## Contents
+## 内容
 
-* [Our creed](#our-creed)
-* [Our investor, Bloomberg L.P.](#our-investor-bloomberg-lp)
-* [What we believe about the future of work](#what-we-believe-about-the-future-of-work)
-* [What we look for in a startup](#what-we-look-for-in-a-startup)
-* [The deal terms](#the-deal-terms)
-* [Our “products,” or, models for how we work with founders](#our-products-or-how-we-work-with-founders)
-* [How we support founders](#how-we-support-founders)
-* [Finding us](#finding-us)
+* 我们的信条(#our-creed)
+* 我们的投资者彭博社(#our-investor-bloomberg-lp)
+* 我们对未来工作的信念(#what-we-believe-about-the-future-of-work)
+* 我们在初创公司中寻找什么(#what-we-look-for-in-a-startup)
+* 交易条款(#the-deal-terms)
+* 我们的“产品”，或者我们与创始人合作的模式(#our-products-or-how-we-work-with-founders)
+* 我们如何支持创始人(#how-we-support-founders)
+* 找到我们(#finding-us)
 
-## Our creed
+## 我们的信条
 
-We believe work must be more productive, fulfilling, inclusive, and available to as many people as possible. 
+我们相信工作必须更加高效、充实、包容，并为尽可能多的人提供服务。
 
-Our waking hours must engage the best in us and provide for our needs and wants -- and the world we live in too often fails to offer that.
+我们醒着的时间必须充分发挥我们的潜力，满足我们的需求和愿望——而我们生活的世界往往无法提供这一点。
 
-We believe technology startups play an essential role in delivering a better future. We can speed the arrival of that future by investing in the best startups that share these intentions.
+我们相信科技初创公司在创造更美好的未来方面发挥着重要作用。我们可以通过投资具有这些意图的最佳初创公司来加速未来的到来。
 
-## Our investor, Bloomberg L.P.
+## 我们的投资者彭博社
 
-Bloomberg L.P. is our sole investor. Returns that we generate go to fund [Bloomberg Philanthropies](http://bloomberg.org), giving alongside Mike Bloomberg, to ensure better, longer lives for the greatest number of people by focusing on the arts, education, the environment, government innovation, and public health.
+彭博有限合伙企业是我们的唯一投资者。我们产生的回报将用于资助[Bloomberg Philanthropies](http://bloomberg.org), 彭博慈善基金会，与迈克·布隆伯格一起捐赠，通过关注艺术、教育、环境、政府创新和公共卫生，确保尽可能多的人过上更好、更长寿的生活。
 
-We appreciate many things about our investor: Bloomberg is a different kind of company. Bloomberg is a pioneer -- it created one of the original SaaS businesses, the first professional social network, and invented many practices that are now widely adopted by startups. Bloomberg now takes its profits and invests them in philanthropy. We hope startups will be inspired by Bloomberg’s example, as we are.
+我们欣赏投资者的很多方面：彭博社是一家与众不同的公司。彭博社是一个先驱——它创建了最早的 SaaS 业务之一、第一个专业社交网络，并发明了许多现在被初创公司广泛采用的实践。布隆伯格现在将其利润投资于慈善事业。我们希望初创企业能够像我们一样受到彭博社例子的启发。
 
-Bloomberg knows and respects technology and technology companies, is set up to be independent-minded, and builds toward long-term value. Bloomberg was created three decades ago on a then-controversial idea — that information in financial markets should be more widely available. Bloomberg has reached global scale and influence, with more than 15,000 employees in almost 200 locations — and yet it is still a private company, held by its founders.
+彭博了解并尊重科技和科技公司，具有独立思想，并致力于实现长期价值。彭博社是三十年前创建的，其理念当时颇受争议——金融市场的信息应该更广泛地提供。彭博社已达到全球规模和影响力，在近 200 个地点拥有超过 15,000 名员工，但它仍然是一家由其创始人持有的私人公司。
 
-Why did Bloomberg L.P. create Bloomberg Beta? Bloomberg wants a window into the world of startups to understand meaningful trends early, and know founders and companies long before it becomes obvious that they will be significant. To do this, Bloomberg wants a way to support founders and collaborate with them that doesn’t involve an ordinary commercial relationship. (Many startups are not ready to partner with Bloomberg — or any established, larger company — until they’ve grown, settled on a direction, and decided to make a partnership a priority. That can take as long as a few years after the company is founded.) 
+彭博社为何创建 Bloomberg Beta？彭博社希望打开一扇了解初创企业世界的窗口，以便尽早了解有意义的趋势，并在创始人和公司明显变得重要之前就了解它们。为此，彭博社希望找到一种不涉及普通商业关系的方式来支持创始人并与他们合作。（许多初创公司还没有准备好与彭博社或任何成熟的大型公司合作，直到他们成长起来，确定了方向，并决定将合作伙伴关系作为优先事项。这可能需要公司成立后几年的时间成立。）
 
-Bloomberg L.P. invested in Bloomberg Beta to open that window to startups, and set up a structure that is rare for a corporate-sponsored firm — a true fund that invests for financial return, not an “operating division.” Bloomberg knows that great founders want investors whose interests are fully aligned with their own.
+Bloomberg LP 投资 Bloomberg Beta 是为了向初创公司打开这一窗口，并建立了一个对于企业赞助的公司来说罕见的结构——一个真正的为财务回报而投资的基金，而不是一个“运营部门”。彭博社知道，伟大的创始人希望投资者的利益与自己的利益完全一致。
 
-So Bloomberg Beta is set up to choose its own investments, and back companies solely on their merits and financial potential, regardless of whether they have (or intend to have) a business relationship with Bloomberg. We do focus exclusively on areas that are of relevance to Bloomberg -- we wouldn’t invest in a videogame, or a consumer e-commerce site for example. One way to think of our focus: we look at the future of work.
+因此，彭博贝塔的设立是为了选择自己的投资，并仅根据公司的优点和财务潜力来支持公司，无论他们是否与彭博有（或打算有）业务关系。我们确实专注于与彭博社相关的领域——例如，我们不会投资视频游戏或消费者电子商务网站。思考我们的重点的一种方式是：我们着眼于工作的未来。
 
-We believe we can take the Bloomberg ethos and apply it to how we work with founders: putting our customers (founders!) first, developing deep expertise in our domain (the future of work), and convening different spheres (from every walk of life) to bring new experiences to our customers.
+我们相信，我们可以秉承彭博精神，并将其应用到我们与创始人的合作方式中：将我们的客户（创始人！）放在第一位，在我们的领域（工作的未来）发展深厚的专业知识，并召集不同领域（来自各行各业的人） ）为我们的客户带来新的体验。
 
-Ultimately, Bloomberg L.P.’s founders have succeeded at doing what we hope to help other companies do — create something extraordinary.
+最终，彭博社的创始人成功地完成了我们希望帮助其他公司做的事情——创造非凡的东西。
 
-## What we believe about the future of work
-When we started Bloomberg Beta in 2013, we were the first venture fund to focus on the future of work -- and few understood what that meant. Now the “future of work” is almost a cliché, but we think of it differently than how many others describe it. We see it as more than just “productivity tools for tech workers” -- the future of work is about how everyone in the economy can succeed, and how founders can reshape business to make it more productive, humane, fair, and inclusive.
-To know how our fund thinks, it helps to know the views we bring into every meeting, every email we send, every thought we have about a startup. We've worked to articulate some of these beliefs -- both those writ large about the economy as a whole and the nature of how business will operate in the future.
+## 我们对未来工作的信念
+当我们在 2013 年启动 Bloomberg Beta 时，我们是第一家专注于未来工作的风险基金，但很少有人理解这意味着什么。现在，“工作的未来”几乎是陈词滥调，但我们对它的看法与其他人所描述的不同。我们认为它不仅仅是“科技工作者的生产力工具”——工作的未来是关于经济中的每个人如何取得成功，以及创始人如何重塑企业，使其更加高效、人性化、公平和包容。要了解我们的基金如何思考，了解我们在每次会议、我们发送的每封电子邮件以及我们对初创公司的每一个想法中所提出的观点都会有所帮助。我们一直在努力阐明其中一些信念——这些信念都对整个经济以及未来企业运作的本质有很大影响。
 
-#### Remaking traditional industries with technology
-Once upon a time, technology startups only made hardware and software — today they often build entirely new services and products, with technology at their core. One of the most important new kinds of startups is a ["hot-swap" startup](https://also.roybahat.com/looking-for-more-of-a-new-kind-of-startup-516e5033c63c), which directly replace some enormous incumbent by using technology to compete with it directly. Today, startups are entering enormous, traditional industries — like [logistics](https://www.getware.com/), [real estate](https://www.doma.com/), [insurance](https://www.newfront.com/), [construction](https://www.quartz.co/), [education](https://campuswire.com/), [healthcare](https://tembo.health/), and more — bringing a wildly better offering than the established old guard. 
+#### 用科技改造传统产业
+曾几何时，科技初创公司只生产硬件和软件——如今，他们经常以技术为核心构建全新的服务和产品。最重要的新型初创企业之一是“["hot-swap" startup](https://also.roybahat.com/looking-for-more-of-a-new-kind-of-startup-516e5033c63c)，它通过利用技术与其直接竞争来直接取代一些巨大的现有企业。如今，初创公司正在进入巨大的传统行业——如[物流](https://www.getware.com/), [地产](https://www.doma.com/), [保险](https://www.newfront.com/), [建筑](https://www.quartz.co/), [教育](https://campuswire.com/), [医疗保健](https://tembo.health/),等——带来了比成熟的传统行业更好的产品。
 
-#### Work is the soil of new technology
-Our personal lives are now guided by technology — virtual assistants, self-parking cars, on demand delivery — more advanced than what we use at work. Over the past 20 years, in contrast to much of modern economic history, technology often arrived in peoples' personal lives before it reached industry.
+####工作是新技术的土壤
+我们的个人生活现在由技术指导——虚拟助手、自动停车、按需送货——比我们在工作中使用的技术更先进。过去 20 年来，与现代经济史的大部分时期不同的是，技术往往先于工业进入人们的个人生活。
 
-We believe that work will continue to catch up and we’ll return to the historical norm, where technology arrives at work before it arrives at home. Work — especially knowledge work — will be the soil in which many of the [most exciting new technologies](http://textio.com) will find their most interesting applications. Technology for work will write the first draft of technology history.
+我们相信，工作将继续迎头赶上，我们将回到历史常态，即技术先到达工作场所，再到达家庭。 [most exciting new technologies](http://textio.com) 工作——尤其是知识工作——将成为许多最令人兴奋的新技术找到最有趣应用的土壤。工作技术将书写技术历史的初稿。
 
-The impact of COVID, starting in 2020 forced companies to experiment with a more fluid workplace. Employers will expand benefits to include more support around mental health, child and elder care, and peer learning. Remote, distributed work is now considered a benefit. Billion-dollar companies can now be built with employees spread throughout the world, without one “headquarters." New service providers will arise to support these hybrid, ever-changing workplaces — [collaboration](http://range.co) [tools](http://gatheround.com), [people management](http://donut.com), real estate, cloud infrastructure, cybersecurity, benefits, and more. 
+从 2020 年开始，新冠疫情的影响迫使公司尝试更加流动的工作场所。雇主将扩大福利范围，包括在心理健康、儿童和老年人护理以及同伴学习方面提供更多支持。远程、分布式工作现在被认为是一种好处。现在，员工遍布世界各地，就可以建立价值数十亿美元的公司，而无需设立“总部”。新的服务提供商将会出现，以支持这些混合的、不断变化的工作场所——协作工具、人员管理、房地产、云基础[设施](http://range.co) [tools](http://gatheround.com), [people management](http://donut.com), 网络安全、好处等等。
 
-#### Sudden shocks of technological change, driven by machine intelligence
-We believe technology's pace, while accelerating, will affect us in a more profound way: changes, when they happen, will be far more sudden and jarring. The transition from a human society of hunters and gatherers to an agrarian one took about 3,000 years; the transition from agriculture to industry took roughly 300; industry to services took about 30. Whatever comes next will happen during the span of the careers of people working today. Now, an entire industry or category-leading company can fall off a cliff. In 1958, if a company cracked the S&P 500, it could expect to stay for 61 years — today, the expectation is [only 18 years](https://www.highly.co/hl/573f63e821341a003c00002c).
+#### 由机器智能驱动的技术变革的突然冲击
+我们相信，技术的步伐在加速的同时，将以更深远的方式影响我们：当变化发生时，将更加突然和震撼。从狩猎采集社会到农业社会的转变大约需要3000年的时间；从农业到工业的转变大约花了300年；从工业到服务业大约需要 30 年。无论接下来发生什么，都将在今天工作的人们的职业生涯中发生。现在，整个行业或类别领先的公司可能会跌落悬崖。1958 年，如果一家公司跻身标准普尔 500 指数，它的期望值可能是 61 年——而今天，这个期望值仅为 [18 年](https://www.highly.co/hl/573f63e821341a003c00002c).
 
 [Machine intelligence](http://www.shivonzilis.com/machineintelligence), in particular, crosses all the areas we care about, and we were [the first fund](https://techcrunch.com/2015/11/26/machine-intelligence-in-the-real-world/) to declare it as a focus area. We believe machine intelligence will transform every industry and every function — and we focus on its effects on business. We believe [machine intelligence will be like electricity](https://www.wired.com/2014/10/future-of-artificial-intelligence/): cheap, convenient, and on-demand.
 
