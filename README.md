@@ -14,8 +14,7 @@ Bloomberg Beta 是一家由Bloomberg LP[Bloomberg L.P.](https://www.bloomberg.co
 
 **所以你在这里。正如他们所说，如有疑问，请阅读（咳咳）手册。:)**
 
-### Who we are
-
+### 我们是谁
 James Cham — [Twitter](https://twitter.com/jamescham) // [LinkedIn](https://www.linkedin.com/in/jcham)
 
 Karin Klein — [Twitter](https://twitter.com/karinklein) // [LinkedIn](https://www.linkedin.com/in/karinklein) // [Blog](https://medium.com/@Karin)
@@ -36,20 +35,20 @@ Alison Dyer
 
 Shivon Zilis (advisor) — [Twitter](https://twitter.com/shivon) // [LinkedIn](https://www.linkedin.com/in/shivonzilis/)
 
-### Where we work
-San Francisco — [140 New Montgomery St., 22nd fl](http://goo.gl/49X6hu)
+### 我们工作的地方
+旧金山 — [140 New Montgomery St., 22nd fl](http://goo.gl/49X6hu)
 
-New York — [731 Lexington Ave.](http://goo.gl/tt3m7f)
+纽约 — [731 Lexington Ave.](http://goo.gl/tt3m7f)
 
-### Work with us
+### 跟我们工作
 
-**2023 Fellowship** — Applications are closed currently for our Summer 2023 Fellowship. 
+**2023 年奖学金** — 2023 年夏季奖学金的申请目前已结束。
 
-We are an equal opportunity employer and celebrate diversity. We are committed to backing founders and building a team that represents a variety of backgrounds including race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, and disability status. The success of [our work depends on being inclusive](https://github.com/Bloomberg-Beta/Manual/blob/main/1%20-%20Manual.md#inclusion-diversity-equity-and-justice).
+我们是一个机会均等的雇主，崇尚多元化。我们致力于支持创始人并建立一支代表各种背景的团队，包括种族、宗教、肤色、国籍、性别、性取向、年龄、婚姻状况、退伍军人状况和残疾状况。我们工作的成功 [our work depends on being inclusive](https://github.com/Bloomberg-Beta/Manual/blob/main/1%20-%20Manual.md#inclusion-diversity-equity-and-justice).取决于包容性。
 
-Most roles at Bloomberg Beta last for a few years and then people go into a startup -- or start one. Our alumni have worked everywhere from [Opendoor](https://www.linkedin.com/in/danstrickland/), [Facebook](https://www.linkedin.com/in/catherinedong/), and [On Deck](https://www.linkedin.com/in/minnkim/), to working for [Elon Musk](https://www.linkedin.com/in/shivonzilis/), other [VC's](https://www.linkedin.com/in/morganpolotan/), and international [media conglomerates](https://www.linkedin.com/in/valentinazarya/), as well as executives at [early](https://www.linkedin.com/in/harold-e-penson/) [companies](https://www.linkedin.com/in/friederike-reuter/), and starting companies in areas like [cybersecurity](https://www.linkedin.com/in/harleysugarman/) and [womens' empowerment](https://www.linkedin.com/in/shainaconners/). 
+Bloomberg Beta 的大多数职位都会持续几年，然后人们就会进入一家初创公司——或者创办一家初创公司。我们的校友遍布各地，从[Opendoor](https://www.linkedin.com/in/danstrickland/), [Facebook](https://www.linkedin.com/in/catherinedong/), 和 [On Deck](https://www.linkedin.com/in/minnkim/), 到为[Elon Musk](https://www.linkedin.com/in/shivonzilis/), other [VC's](https://www.linkedin.com/in/morganpolotan/), 其他[media conglomerates](https://www.linkedin.com/in/valentinazarya/),和国际[early](https://www.linkedin.com/in/harold-e-penson/) [companies](https://www.linkedin.com/in/friederike-reuter/), 工作，以及早期公司的高管，以及网络安全和女性赋权等领域的初创公司。cybersecurity](https://www.linkedin.com/in/harleysugarman/) and [womens' empowerment](https://www.linkedin.com/in/shainaconners/). 
 
-*(Thanks [Textio](https://textio.com/blog/how-to-craft-a-sincere-equal-opportunity-employer-statement/28880187459) for the inspiration on how to craft an equal opportunity statement.)*
+*(感谢[Textio](https://textio.com/blog/how-to-craft-a-sincere-equal-opportunity-employer-statement/28880187459) 为如何制定平等机会声明提供了灵感。）
 
 ### Questions?
 
