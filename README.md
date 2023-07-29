@@ -3,16 +3,15 @@
 ### 我们为何存在
 我们相信，我们正在看到商业运作方式的深刻变化。我们的投资者彭博社希望支持和​​理解这些变化。支持和建立初创公司是实现这一目标的绝佳方式，因此我们创建了 Bloomberg Beta。 **下面是我们的想法的快照，包括我们以前的内部操作手册 [operating manual](https://github.com/Bloomberg-Beta/Manual/blob/main/1%20-%20Manual.md) —  的链接，其中包含有关我们如何工作的许多详细信息**
 
-Bloomberg Beta is an early-stage venture firm backed by [Bloomberg L.P.](https://www.bloomberg.com/company/), investing out of a $75M seed fund focused broadly on the future of work. (We are now investing out of our fourth fund, which is the same size and focus as the first three funds, as well as a $75M “opportunity fund” that invests at later stages in companies we’ve already backed, so we now have $375M in total under management.) While we focus on general areas of interest to Bloomberg, we choose our investments independently, without preference for companies who have or want a relationship with Bloomberg. We invest for financial return. We do see Bloomberg as a template for startups — founded on a powerful idea, bringing transparency to markets, achieving global scale, with a strong and open culture that embraces technology, led by its founders for decades. To serve our founders, we seek — like the rest of Bloomberg — to bring different worlds together (business, technology, culture, the public sector, among others).
+Bloomberg Beta 是一家由Bloomberg LP[Bloomberg L.P.](https://www.bloomberg.com/company/), 支持的早期风险投资公司，用 7500 万美元的种子基金进行投资，主要关注未来的工作。（我们现在正在投资我们的第四只基金，该基金的规模和重点与前三只基金相同，以及一个 7500 万美元的“机会基金”，该基金在后期阶段投资于我们已经支持的公司，所以我们现在管理总额达 3.75 亿美元。）虽然我们专注于彭博感兴趣的一般领域，但我们独立选择投资，不偏向那些与彭博有关系或想要与彭博建立关系的公司。我们投资是为了财务回报。我们确实将彭博社视为初创企业的模板——建立在强大的理念之上，为市场带来透明度，实现全球规模，拥有强大而开放的文化，拥抱技术，并由其创始人领导了数十年。为了服务我们的创始人，
 
-### Why our website is on GitHub
-In treating our founders as our customers, we often think about how to build as much trust as possible with them. We believe transparency — in how we think, what we believe and why — is the first step to that trust.
+### 为什么我们的网站位于 GitHub 上
+在将创始人视为客户时，我们经常思考如何与他们建立尽可能多的信任。我们相信透明度——我们如何思考、我们相信什么以及为什么——是建立这种信任的第一步。
 
-So, a few months after we started our fund, when we were writing an [operating manual](https://github.com/Bloomberg-Beta/Manual/blob/main/1%20-%20Manual.md) for ourselves (covering everything from check sizes, to diligence questions, core beliefs, etc.), we decided to take a chance and open source it. Founders told us, again and again, how much time it saved to have facts out in the open, how it helped them decide whether to work with us. (The ones who want to skip talking to us also save a step, which is terrific. Founder time is precious.) We started seeing stars and forks, and decided to go even further.
-
-We've moved our entire web presence to GitHub to become even more transparent. Here, you can see how things have changed over time, propose improvements, or even take our ideas and make them your own (the investments are ours, though). You can also see the things you'd usually find on a venture investor's website, like [a list of our founders](https://github.com/Bloomberg-Beta/Manual/blob/main/2%20-%20In%20our%20portfolio.md) and [the questions we ask ourselves when evaluating startups](https://github.com/Bloomberg-Beta/Manual/blob/main/3%20-%20Criteria%20for%20investing.md). We're grateful you're taking the time to learn about us.
-
-**So here you are. When in doubt, as they say, read the (ahem) manual. :)**
+因此，在我们启动基金几个月后，当我们为自己编写 [operating manual](https://github.com/Bloomberg-Beta/Manual/blob/main/1%20-%20Manual.md) 操作手册（涵盖从支票规模到尽职调查问题、核心信念等所有内容）时，我们决定抓住机会并将其开源。 创始人一次又一次地告诉我们，公开事实可以节省多少时间，这如何帮助他们决定是否与我们合作。（那些想跳过与我们交谈的人也节省了一步，这太棒了。创始人的时间很宝贵。）我们开始看到星星和叉子，并决定走得更远。
+我们已将整个网站迁移到 GitHub，以变得更加透明。在这里，您可以看到事情随着时间的推移发生了怎样的变化，提出改进建议，甚至采纳我们的想法并将其变成您自己的（不过，投资是我们的）。您还可以看到通常在风险投资者网站上找到的内容，例如[a list of our founders](https://github.com/Bloomberg-Beta/Manual/blob/main/2%20-%20In%20our%20portfolio.md) 我们的创始人名单以及[the questions we ask ourselves when evaluating startups](https://github.com/Bloomberg-Beta/Manual/blob/main/3%20-%20Criteria%20for%20investing.md). 我们在评估初创公司时问自己的问题。我们非常感谢您花时间了解我们。
+**所以你在这里。正如他们所说，如有疑问，请阅读（咳咳）手册。:)
+**
 
 ### Who we are
 
