@@ -9,9 +9,10 @@ Bloomberg Beta 是一家由Bloomberg LP[Bloomberg L.P.](https://www.bloomberg.co
 在将创始人视为客户时，我们经常思考如何与他们建立尽可能多的信任。我们相信透明度——我们如何思考、我们相信什么以及为什么——是建立这种信任的第一步。
 
 因此，在我们启动基金几个月后，当我们为自己编写 [operating manual](https://github.com/Bloomberg-Beta/Manual/blob/main/1%20-%20Manual.md) 操作手册（涵盖从支票规模到尽职调查问题、核心信念等所有内容）时，我们决定抓住机会并将其开源。 创始人一次又一次地告诉我们，公开事实可以节省多少时间，这如何帮助他们决定是否与我们合作。（那些想跳过与我们交谈的人也节省了一步，这太棒了。创始人的时间很宝贵。）我们开始看到星星和叉子，并决定走得更远。
+
 我们已将整个网站迁移到 GitHub，以变得更加透明。在这里，您可以看到事情随着时间的推移发生了怎样的变化，提出改进建议，甚至采纳我们的想法并将其变成您自己的（不过，投资是我们的）。您还可以看到通常在风险投资者网站上找到的内容，例如[a list of our founders](https://github.com/Bloomberg-Beta/Manual/blob/main/2%20-%20In%20our%20portfolio.md) 我们的创始人名单以及[the questions we ask ourselves when evaluating startups](https://github.com/Bloomberg-Beta/Manual/blob/main/3%20-%20Criteria%20for%20investing.md). 我们在评估初创公司时问自己的问题。我们非常感谢您花时间了解我们。
-**所以你在这里。正如他们所说，如有疑问，请阅读（咳咳）手册。:)
-**
+
+**所以你在这里。正如他们所说，如有疑问，请阅读（咳咳）手册。:)**
 
 ### Who we are
 
