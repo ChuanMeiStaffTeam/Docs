@@ -48,13 +48,13 @@ Shivon Zilis (advisor) — [Twitter](https://twitter.com/shivon) // [LinkedIn](h
 
 Bloomberg Beta 的大多数职位都会持续几年，然后人们就会进入一家初创公司——或者创办一家初创公司。我们的校友遍布各地，从[Opendoor](https://www.linkedin.com/in/danstrickland/), [Facebook](https://www.linkedin.com/in/catherinedong/), 和 [On Deck](https://www.linkedin.com/in/minnkim/), 到为[Elon Musk](https://www.linkedin.com/in/shivonzilis/), other [VC's](https://www.linkedin.com/in/morganpolotan/), 其他[media conglomerates](https://www.linkedin.com/in/valentinazarya/),和国际[early](https://www.linkedin.com/in/harold-e-penson/) [companies](https://www.linkedin.com/in/friederike-reuter/), 工作，以及早期公司的高管，以及网络安全和女性赋权等领域的初创公司。cybersecurity](https://www.linkedin.com/in/harleysugarman/) and [womens' empowerment](https://www.linkedin.com/in/shainaconners/). 
 
-*(感谢[Textio](https://textio.com/blog/how-to-craft-a-sincere-equal-opportunity-employer-statement/28880187459) 为如何制定平等机会声明提供了灵感。）
+*(感谢[Textio](https://textio.com/blog/how-to-craft-a-sincere-equal-opportunity-employer-statement/28880187459) 为如何制定平等机会声明提供了灵感。）*
 
-### Questions?
+### 问题？
 
-Our founders requested an anonymous way to ask us questions, so we're providing it for you, too. [Right here](https://docs.google.com/forms/d/1f0onzfI9HbqlqO_YEbgdOPPqhdS-8nYFnGtUcGT792o/viewform?edit_requested=true).  
+我们的创始人要求以匿名方式向我们提问，因此我们也为您提供。 就在这里。(https://docs.google.com/forms/d/1f0onzfI9HbqlqO_YEbgdOPPqhdS-8nYFnGtUcGT792o/viewform?edit_requested=true).  
 
-(If we've already answered the question in our manual, e.g., "how should I get in touch with you?" then we will respectfully ignore the question.)
+如果我们已经回答了手册中的问题，例如“我应该如何与您联系？”那么我们将恭敬地忽略该问题。）
 
-## License
-This manual is open sourced under a [Creative Commons license](http://creativecommons.org/licenses/by/3.0/deed.en_US).
+## 执照
+本手册是根据知识共享许可开源的。[Creative Commons license](http://creativecommons.org/licenses/by/3.0/deed.en_US).
