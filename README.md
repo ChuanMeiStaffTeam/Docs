@@ -1,7 +1,7 @@
 # 从这里开始
 
 ### 我们为何存在
-我们相信，我们正在看到商业运作方式的深刻变化。我们的投资者彭博社希望支持和​​理解这些变化。支持和建立初创公司是实现这一目标的绝佳方式，因此我们创建了 Bloomberg Beta。 **Below is a snapshot of how we think, including a link to our previously-internal [operating manual](https://github.com/Bloomberg-Beta/Manual/blob/main/1%20-%20Manual.md) —  with many details on how we work.**
+我们相信，我们正在看到商业运作方式的深刻变化。我们的投资者彭博社希望支持和​​理解这些变化。支持和建立初创公司是实现这一目标的绝佳方式，因此我们创建了 Bloomberg Beta。 **下面是我们的想法的快照，包括我们以前的内部操作手册 [operating manual](https://github.com/Bloomberg-Beta/Manual/blob/main/1%20-%20Manual.md) —  的链接，其中包含有关我们如何工作的许多详细信息**
 
 Bloomberg Beta is an early-stage venture firm backed by [Bloomberg L.P.](https://www.bloomberg.com/company/), investing out of a $75M seed fund focused broadly on the future of work. (We are now investing out of our fourth fund, which is the same size and focus as the first three funds, as well as a $75M “opportunity fund” that invests at later stages in companies we’ve already backed, so we now have $375M in total under management.) While we focus on general areas of interest to Bloomberg, we choose our investments independently, without preference for companies who have or want a relationship with Bloomberg. We invest for financial return. We do see Bloomberg as a template for startups — founded on a powerful idea, bringing transparency to markets, achieving global scale, with a strong and open culture that embraces technology, led by its founders for decades. To serve our founders, we seek — like the rest of Bloomberg — to bring different worlds together (business, technology, culture, the public sector, among others).
 
