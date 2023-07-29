@@ -46,7 +46,7 @@ Shivon Zilis (advisor) — [Twitter](https://twitter.com/shivon) // [LinkedIn](h
 
 我们是一个机会均等的雇主，崇尚多元化。我们致力于支持创始人并建立一支代表各种背景的团队，包括种族、宗教、肤色、国籍、性别、性取向、年龄、婚姻状况、退伍军人状况和残疾状况。我们工作的成功 [our work depends on being inclusive](https://github.com/Bloomberg-Beta/Manual/blob/main/1%20-%20Manual.md#inclusion-diversity-equity-and-justice).取决于包容性。
 
-Bloomberg Beta 的大多数职位都会持续几年，然后人们就会进入一家初创公司——或者创办一家初创公司。我们的校友遍布各地，从[Opendoor](https://www.linkedin.com/in/danstrickland/), [Facebook](https://www.linkedin.com/in/catherinedong/), 和 [On Deck](https://www.linkedin.com/in/minnkim/), 到为[Elon Musk](https://www.linkedin.com/in/shivonzilis/), other [VC's](https://www.linkedin.com/in/morganpolotan/), 其他[media conglomerates](https://www.linkedin.com/in/valentinazarya/),和国际[early](https://www.linkedin.com/in/harold-e-penson/) [companies](https://www.linkedin.com/in/friederike-reuter/), 工作，以及早期公司的高管，以及网络安全和女性赋权等领域的初创公司。cybersecurity](https://www.linkedin.com/in/harleysugarman/) and [womens' empowerment](https://www.linkedin.com/in/shainaconners/). 
+Bloomberg Beta 的大多数职位都会持续几年，然后人们就会进入一家初创公司——或者创办一家初创公司。我们的校友遍布各地，从Opendoor、Facebook和On Deck，到为埃隆·马斯克、其他风险投资公司和国际媒体集团工作，以及早期 公司的高管，以及网络安全和女性赋权等领域的初创公司。
 
 *(感谢[Textio](https://textio.com/blog/how-to-craft-a-sincere-equal-opportunity-employer-statement/28880187459) 为如何制定平等机会声明提供了灵感。）*
 
