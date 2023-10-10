@@ -19,9 +19,9 @@
 **所以你在这里。正如他们所说，如有疑问，请阅读（咳咳）手册。:)**
 
 ### 我们是谁
-David Cheng — [Email](David.cheng@chuanmei.info) // [LinkedIn](https://www.linkedin.com/in/jcham)
+David Cheng — [Email](David.cheng@chuanmei.info) //
 
-王女士 Zilis (财务) — [Email](1141794081@qq.com) // [LinkedIn](https://www.linkedin.com/in/shivonzilis/)
+王女士 Zilis (财务) — [Email](1141794081@qq.com) //
 
 ### 我们工作的地方
 上海 — [上海市浦东新区乳山路98号普联大厦1号楼5楼](http://goo.gl/49X6hu)
@@ -29,8 +29,8 @@ David Cheng — [Email](David.cheng@chuanmei.info) // [LinkedIn](https://www.lin
 ### 跟我们工作
 
 **2023 年职位招聘** — 2023 年职位招聘的申请目前已开始。
-[iOS开发工程师]([url](https://rd6.zhaopin.com/job/detail?jobNumber=CC264213880J40055861705))
-[Java开发工程师]([url](https://rd6.zhaopin.com/job/detail?jobNumber=CC264213880J40123807505))
+[iOS开发工程师] ([url](https://rd6.zhaopin.com/job/detail?jobNumber=CC264213880J40055861705))
+[Java开发工程师] ([url](https://rd6.zhaopin.com/job/detail?jobNumber=CC264213880J40123807505))
 
 *(感谢[Bloomberg Beta](https://github.com/Bloomberg-Beta)为如何制定平等机会声明提供了灵感。）*
 
