@@ -30,7 +30,7 @@ David Cheng — [Email](David.cheng@chuanmei.info) //
 
 **2023 年职位招聘** — 2023 年职位招聘的申请目前已开始。
 
-[iOS开发工程师] ([url](https://rd6.zhaopin.com/job/detail?jobNumber=CC264213880J40055861705)
+[iOS开发工程师] ([url](https://rd6.zhaopin.com/job/detail?jobNumber=CC264213880J40055861705)https://rd6.zhaopin.com/job/detail?jobNumber=CC264213880J40055861705
 
 [Java开发工程师] ([url](https://rd6.zhaopin.com/job/detail?jobNumber=CC264213880J40123807505))
 
