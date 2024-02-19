@@ -19,9 +19,9 @@
 **所以你在这里。正如他们所说，如有疑问，请阅读（咳咳）手册。:)**
 
 ### 我们是谁
-David Cheng — [Email](David.cheng@chuanmei.info) //
+David Cheng — [Email](David.cheng@chuanmei.info)
 
-王女士 Zilis (财务) — [Email](1141794081@qq.com) //
+王女士 Zilis (财务) — [Email](1141794081@qq.com)
 
 ### 我们工作的地方
 上海 — [上海市浦东新区乳山路98号普联大厦1号楼5楼](https://www.amap.com/place/B0FFKZUEOL)
