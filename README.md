@@ -28,7 +28,7 @@ David Cheng — [Email](David.cheng@chuanmei.info)
 
 ### 跟我们工作
 
-**2024 年职位招聘** — 2024 年职位招聘的申请目前已开始。
+**2025 年职位招聘** — 2025 年职位招聘的申请目前已开始。
 
 [iOS开发工程师] https://rd6.zhaopin.com/job/detail?jobNumber=CC264213880J40055861705
 
